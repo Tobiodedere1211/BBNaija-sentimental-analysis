@@ -126,13 +126,13 @@ v2-plant-seedlings-dataset.zip
 logs/
 
 # trained models (will be created in CI)
-section-05-production-model-package/regression_model/trained_models/*.pkl
-packages/regression_model/regression_model/trained_models/*.pkl
-packages/neural_network_model/neural_network_model/trained_models/*.pkl
-packages/neural_network_model/neural_network_model/trained_models/*.h5
-*.h5
+# section-05-production-model-package/regression_model/trained_models/*.pkl
+# packages/regression_model/regression_model/trained_models/*.pkl
+# packages/neural_network_model/neural_network_model/trained_models/*.pkl
+# packages/neural_network_model/neural_network_model/trained_models/*.h5
+# *.h5
 packages/neural_network_model/neural_network_model/datasets/training_data_reference.txt
-*.pkl
+# *.pkl
 
 .DS_Store
 
